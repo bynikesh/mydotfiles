@@ -1,0 +1,5 @@
+[user]
+	name = Nikesh Adhikari
+	email = adhikarinikesh49@gmail.com
+[credential]
+	helper = osxkeychain
